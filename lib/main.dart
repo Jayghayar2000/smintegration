@@ -1,4 +1,3 @@
-// SHA1: 32:9F:CC:64:5F:28:F5:D3:B3:96:ED:B4:91:14:20:D2:98:BC:53:C3
 import 'package:flutter/material.dart';
 import 'home.dart';
 
